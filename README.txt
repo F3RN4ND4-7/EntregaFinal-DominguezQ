@@ -1,5 +1,5 @@
 #entregafinal-dominguezq
-#mongodb://localhost:27017/
+#mongodb://localhost:27017/entregafinal-dominguez
 
 #MyMagicalProducts:
 
